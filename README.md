@@ -1,16 +1,12 @@
 # SYNOPSIS  
-[![NPM Package](https://img.shields.io/npm/v/ethereumjs-block.svg?style=flat-square)](https://www.npmjs.org/package/ethereumjs-block)
-[![Build Status](https://img.shields.io/travis/ethereumjs/ethereumjs-block.svg?branch=master&style=flat-square)](https://travis-ci.org/ethereumjs/ethereumjs-block)
-[![Coverage Status](https://img.shields.io/coveralls/ethereumjs/ethereumjs-block.svg?style=flat-square)](https://coveralls.io/r/ethereumjs/ethereumjs-block)
-[![Gitter](https://img.shields.io/gitter/room/ethereum/ethereumjs-lib.svg?style=flat-square)]() or #ethereumjs on freenode  
 
 [![js-standard-style](https://cdn.rawgit.com/feross/standard/master/badge.svg)](https://github.com/feross/standard)  
 
 
-Implements schema and functions related to Ethereum's block. 
+Implements schema and functions related to PUFFScoin's blocks. 
 
 # INSTALL
-`npm install ethereumjs-block`
+`npm install puffscionjs-block`
 
 # BROWSER  
 This module work with `browserify`.
@@ -19,7 +15,7 @@ This module work with `browserify`.
 [./docs](./docs/index.md)
 
 # TESTING
-Tests in the ``tests`` directory are partly outdated and testing is primarily done by running the ``BlockchainTests`` from within the [ethereumjs-vm](https://github.com/ethereumjs/ethereumjs-vm) repository.
+Tests in the ``tests`` directory are partly outdated and testing is primarily done by running the ``BlockchainTests`` from within the [puffscionjs-vm](https://github.com/puffscoin/puffscionjs-vm) repository.
 
 Relevant test folders:
 - ``bcTotalDifficultyTest``
@@ -27,9 +23,7 @@ Relevant test folders:
 
 # EthereumJS
 
-See our organizational [documentation](https://ethereumjs.readthedocs.io) for an introduction to `EthereumJS` as well as information on current standards and best practices.
-
-If you want to join for work or do improvements on the libraries have a look at our [contribution guidelines](https://ethereumjs.readthedocs.io/en/latest/contributing.html).
+See our organizational [documentation](http://puffscoin.leafycauldronapothecary.com/puffwiki/puffscoinjs-user-guide/) for an introduction to `PuffscoinJS`.
 
 # LICENSE
 [MPL-2.0](https://tldrlegal.com/license/mozilla-public-license-2.0-(mpl-2))

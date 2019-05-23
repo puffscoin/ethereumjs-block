@@ -1,5 +1,5 @@
-const Common = require('ethereumjs-common').default
-const utils = require('ethereumjs-util')
+const Common = require('puffscoinjs-common').default
+const utils = require('puffscoinjs-util')
 const BN = utils.BN
   /**
    * An object that repersents the block header

@@ -2,7 +2,7 @@
 
 # blockFromRpc
 
-Creates a new block object from Ethereum JSON RPC.
+Creates a new block object from PUFFScoin JSON RPC.
 
 **Parameters**
 

@@ -10,7 +10,7 @@ Creates a new block object
 -   `opts` **[Array](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)** Options
     -   `opts.chain` **([String](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String) \| [Number](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number))** The chain for the block [default: 'mainnet']
     -   `opts.hardfork` **[String](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String)** Hardfork for the block [default: null, block number-based behaviour]
-    -   `opts.common` **[Object](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object)** Alternatively pass a Common instance (ethereumjs-common) instead of setting chain/hardfork directly
+    -   `opts.common` **[Object](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object)** Alternatively pass a Common instance (http://puffscoin.leafycauldronapothecary.com/puffwiki/puffscoinjs-user-guide/-common) instead of setting chain/hardfork directly
 
 **Properties**
 

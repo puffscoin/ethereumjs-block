@@ -1,6 +1,6 @@
 const tape = require('tape')
-const Common = require('ethereumjs-common').default
-const rlp = require('ethereumjs-util').rlp
+const Common = require('puffscoinjs-common').default
+const rlp = require('puffscoinjs-util').rlp
 const Block = require('../index.js')
 
 tape('[Block]: block functions', function (t) {

@@ -1,4 +1,4 @@
-const utils = require('ethereumjs-util')
+const utils = require('puffscoinjs-util')
 const tape = require('tape')
 const Block = require('../')
 const BN = utils.BN
@@ -69,7 +69,7 @@ tape('[Header]: difficulty tests', t => {
   t.end()
 
   // Temporarily run local test selection
-  // also: implicit testing through ethereumjs-vm tests
+  // also: implicit testing through puffscoinjs-vm tests
   // (no Byzantium difficulty tests available yet)
   /*
   let args = {}

@@ -6,6 +6,6 @@ Creates a new block object from PUFFScoin JSON RPC.
 
 **Parameters**
 
--   `blockParams` **[Object](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object)** Ethereum JSON RPC of block (eth_getBlockByNumber)
--   `Optional` **[Array](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)&lt;[Object](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object)>** list of Ethereum JSON RPC of uncles (eth_getUncleByBlockHashAndIndex)
+-   `blockParams` **[Object](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object)** PUFFScoin JSON RPC of block (eth_getBlockByNumber)
+-   `Optional` **[Array](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)&lt;[Object](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object)>** list of PUFFScion JSON RPC of uncles (eth_getUncleByBlockHashAndIndex)
 -   `uncles`  

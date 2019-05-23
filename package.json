@@ -25,7 +25,7 @@
     "url": "git+https://github.com/puffscoin/puffscoinjs-block.git"
   },
   "keywords": [
-    "ethereum",
+    "puffscoin",
     "block"
   ],
   "author": "mjbecze (mb@ethdev.com)",

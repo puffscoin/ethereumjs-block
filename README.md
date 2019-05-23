@@ -21,7 +21,7 @@ Relevant test folders:
 - ``bcTotalDifficultyTest``
 - TODO
 
-# EthereumJS
+# PuffscoinJS
 
 See our organizational [documentation](http://puffscoin.leafycauldronapothecary.com/puffwiki/puffscoinjs-user-guide/) for an introduction to `PuffscoinJS`.
 
